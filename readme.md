@@ -7,6 +7,7 @@ This repository is used for Git practice. The repository contains examples for:
 - Git basic usage
 - Branching
 - Conflicts
+- Git Merging
 
 ## Addresses
 
